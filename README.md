@@ -13,7 +13,7 @@ Skills: HTML , CSS , JS , Python , WordPress & Blogging , kali-Linux and network
 - 💬 Ask me about Anything 
 - 📫 How to reach me: sunuahmed540@gmail.com 
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodexHashim)](https://github.com/anuraghazra/github-readme-stats)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/CodexHashim)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/hashim-ahmed-81861b210//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/@CodeSavy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://codexroot.tech/)  
 
 
