@@ -7,7 +7,7 @@ I am CodexHashim, a passionate developer who loves creating beautiful websites i
 Skills: HTML , CSS , JS , Python , WordPress & Blogging , kali-Linux and networking
 
 - 🔭 I’m currently working on my own comapany 
-- 🌱 I’m currently learning pen-testing 
+- 🌱 I’m currently learning pen-testing and networking
 - 👯 I’m looking to collaborate on Youtube & Git-Hub 
 - 🤔 I’m looking for help with Growing my online business 
 - 💬 Ask me about Anything 
