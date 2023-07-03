@@ -17,7 +17,5 @@ Skills: HTML , CSS , JS , Python , WordPress & Blogging , kali-Linux and network
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodexHashim)](https://github.com/anuraghazra/github-readme-stats)
 
-#### "building stunning websites and securing the digital world.
-!["building stunning websites and securing the digital world."](https://github.com/CodexHashim/CodexHashim/blob/main/Blue%20Geometric%20Technology%20LinkedIn%20Banner.gif)
 
 
