@@ -1,5 +1,54 @@
-# 💫 About Me:
-👋 Hi there! I'm Hashim Ahmed, a passionate software developer turned entrepreneur. As the founder of RH Dynamics, established in 2023 and based in Guwahati, India, I lead a team dedicated to building innovative and impactful digital solutions for businesses and institutions.<br>Skills & Expertise<br>Frontend Development: React.js, Next.js, React Native, Expo<br>Backend & Databases: Firebase, Supabase, MongoDB Atlas<br>Programming Languages: JavaScript, TypeScript, Python<br>DevOps & Server Management: Ubuntu Server, Windows PowerShell<br>Other Tools & Frameworks: Clerk, Firebase Authentication<br>Projects & Solutions<br>At RH Dynamics, we focus on delivering high-quality solutions, including:<br><br>Custom e-commerce applications<br>Learning Management Systems (LMS)<br>ERP systems for schools, colleges, and universities<br>Medical appointment systems for healthcare institutions<br>Professional company websites and more<br>My Journey<br>From coding my first project to establishing RH Dynamics, I’ve transitioned from a hands-on software developer to a visionary entrepreneur. Today, I’m proud to lead a company that partners with clients to bring their ideas to life, offering expertise in mobile and web application development, with a strong focus on scalability and usability.<br><br>Vision<br>My goal is to make RH Dynamics a leader in the tech industry by providing cutting-edge, scalable, and user-friendly solutions that drive innovation and success for our clients.<br><br>Feel free to connect with me for collaborations or projects! 🚀
+# About Me  
+
+👋 **Hi there!**  
+I’m **Hashim Ahmed**, a passionate **software developer** turned **entrepreneur**. As the founder of **RH Dynamics**, established in 2023 and based in **Guwahati, India**, I lead a team dedicated to building innovative and impactful digital solutions for businesses and institutions.  
+
+---
+
+## 🚀 Skills & Expertise  
+
+- 🎨 **Frontend Development**:  
+  React.js, Next.js, React Native, Expo  
+
+- 💾 **Backend & Databases**:  
+  Firebase, Supabase, MongoDB Atlas  
+
+- 💻 **Programming Languages**:  
+  JavaScript, TypeScript, Python  
+
+- ⚙️ **DevOps & Server Management**:  
+  Ubuntu Server, Windows PowerShell  
+
+- 🛠️ **Other Tools & Frameworks**:  
+  Clerk, Firebase Authentication  
+
+---
+
+## 🌟 Projects & Solutions  
+
+At **RH Dynamics**, we focus on delivering **high-quality solutions**, including:  
+- 🛒 **Custom e-commerce applications**  
+- 📚 **Learning Management Systems (LMS)**  
+- 🏫 **ERP systems** for schools, colleges, and universities  
+- 🏥 **Medical appointment systems** for healthcare institutions  
+- 🌐 **Professional company websites** and more  
+
+---
+
+## 📖 My Journey  
+
+From coding my first project to establishing **RH Dynamics**, I’ve transitioned from a hands-on **software developer** to a visionary **entrepreneur**. Today, I’m proud to lead a company that partners with clients to bring their ideas to life, offering expertise in **mobile** and **web application development**, with a strong focus on scalability and usability.  
+
+---
+
+## 🌍 Vision  
+
+My goal is to make **RH Dynamics** a leader in the tech industry by providing **cutting-edge**, **scalable**, and **user-friendly solutions** that drive innovation and success for our clients.  
+
+---
+
+Feel free to connect with me for collaborations or projects! 🚀  
+
 
 
 ## 🌐 Socials:
